@@ -7,9 +7,6 @@ class ARouterPath {
          * 相册选择界面
          * 相册选择界面
          * 相册选择界面
-         * 相册选择界面
-         *
-         *
          */
         const val AROUTER_GALLERY = "/quickart/gallery"
         /**
