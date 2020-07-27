@@ -4,9 +4,6 @@ class ARouterPath {
 
     object ActivityPath{
         /**
-         * 相册选择界面
-         * 相册选择界面
-         * 相册选择界面
          * 123
          */
         const val AROUTER_GALLERY = "/quickart/gallery"
