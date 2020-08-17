@@ -5,6 +5,9 @@ class ARouterPath {
     object ActivityPath{
         /**
          * 123
+         * 123
+         * 123
+         * 123
          */
         const val AROUTER_GALLERY = "/quickart/gallery"
         /**
