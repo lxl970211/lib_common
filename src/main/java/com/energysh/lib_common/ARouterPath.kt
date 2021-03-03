@@ -89,11 +89,6 @@ class ARouterPath {
         const val MATERIAL_REPORT_DIALOG = "/material/report"
     }
 
-    object SERVICE{
-
-        const val REWARDED_VIDEO = "/service/rewarded_video"
-
-    }
 
 
 }
